@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="option_seven_percent" type="id" />
+    <item name="option_ten_percent" type="id" />
+    <item name="option_five_percent" type="id" />
+</resources>
